@@ -1,4 +1,4 @@
-package nl.ibridge.nl.ibridge.wso2client;
+package nl.ibridge.wso2client;
 
 public class ClientException extends Exception {
 

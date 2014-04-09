@@ -1,4 +1,4 @@
-package nl.ibridge.nl.ibridge.wso2client;
+package nl.ibridge.wso2client;
 /*
  * The contents of this file are subject to the "END USER LICENSE AGREEMENT FOR F5
  * Software Development Kit for iControl"; you may not use this file except in
