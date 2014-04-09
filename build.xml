@@ -1,0 +1,7 @@
+<project xmlns:wso2="urn:wso2am">
+    <wso2am:client url="" username="" password=""/>
+
+    <target name="removeApi">
+        <wso2am:removeApi name="" version="" provider=""/>
+    </target>
+</project>
